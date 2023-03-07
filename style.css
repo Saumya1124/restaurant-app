@@ -1,0 +1,10 @@
+.main{
+    height:100vh;
+}
+li{
+    margin: 10px;
+    font-size: 18px;
+}
+.del_btn{
+    margin: 5px;
+}
